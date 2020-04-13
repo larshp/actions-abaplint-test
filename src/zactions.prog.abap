@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZACTIONS.
 
- write 'hello world d'.
+ write 'hello wordld d'.
