@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZACTIONS.
 
- write 'helsdfdfwdf'.
+ write 'helsdf'.
